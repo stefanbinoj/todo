@@ -9,11 +9,4 @@
 - **Responsive Design**: Enjoy a responsive interface that adapts to different devices for seamless usage.
 - **Data Persistence**: Your tasks are securely stored locally, ensuring your lists are always up-to-date.
 
-## Installation
 
-To run the ToDo Application locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<username>/todo-app.git
-   cd todo-app
